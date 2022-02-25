@@ -1,0 +1,27 @@
+{
+  "name": "court_spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "egg-bin dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuzhuolong/court_spider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuzhuolong/court_spider/issues"
+  },
+  "homepage": "https://github.com/zhuzhuolong/court_spider#readme",
+  "dependencies": {
+    "egg": "^2.33.1",
+    "puppeteer": "^13.4.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.18.1"
+  }
+}
